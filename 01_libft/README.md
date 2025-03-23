@@ -1,4 +1,5 @@
-# Libft, My First Library, My first programming toolbox!
+# Libft, My Very First C Library, 
+# My first programming toolbox!
 
 ![ToolBox](https://raw.githubusercontent.com/isilva-t/42.Mile.1_tools/main/01_libft/assets/toolbox.jpg)
 
